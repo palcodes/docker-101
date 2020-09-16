@@ -1,2 +1,2 @@
 # docker-101
-A simple Node app setup inside a Docker container
+A simple Node app set up inside a Docker container 📦
